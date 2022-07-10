@@ -9,7 +9,7 @@ const AboutUs = () => {
 
     return(
         <div className="about_body">
-            <h1 style={styles}>  Packers and Movers</h1>
+            <h1 style={styles}>  Hyderabad Packers and Movers</h1>
             <p>Turn to the most trusted Hyderabad packers and movers, Element Moving and Storage.
                 Our helpful, dedicated team is available to address even the most specific and unique needs of a local or long-distance move.
             </p>
